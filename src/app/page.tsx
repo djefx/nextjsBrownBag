@@ -1,4 +1,3 @@
-'use client';
 type CoinData = {
   id: string;
   name: string;
